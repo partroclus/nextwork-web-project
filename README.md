@@ -53,7 +53,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:  
-**Your Name** – [your.email@email.com](mailto:adebisi_abiodun@ymail.com)
+**Your Name** – [adebisi_abiodun@ymail.com](mailto:adebisi_abiodun@ymail.com)
 
 <br>
 
